@@ -1,0 +1,16 @@
+{
+    "description": "collection of dyslexia and dti studies",
+    "exclusion_criteria": [
+        "is a review article",
+        "is not about dyslexia",
+        "does not use diffusion imaging"
+    ],
+    "inclusion_criteria": [
+        "is a study on dyslexia"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Reading"
+    ],
+    "unmapped_pmids": []
+}
